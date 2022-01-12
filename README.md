@@ -7,4 +7,4 @@ I am full stack web developer
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AleX83Xpert)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&no-bg=true&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
