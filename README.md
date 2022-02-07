@@ -6,7 +6,7 @@ I am full stack web developer
 <div>
   
   <a href="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&hide=stars,issues">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&count_private=true&show_icons=true&hide=stars,issues" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&count_private=true&show_icons=true&hide=stars,issues&count_private=true&show_icons=true" />
   </a>
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AleX83Xpert&theme=tokyonight">
