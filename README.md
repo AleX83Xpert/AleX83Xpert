@@ -4,18 +4,17 @@ I am full stack web developer
 
 ### :trophy: My Github Stats:
 <div>
+  <a href="https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&no-bg=true&&title=Commits,PR">
+    <img src="https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&no-bg=true&&title=Commits,PR" />
+  </a>
   
-  <a href="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&hide=stars,issues">
+  <!--a href="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&hide=stars,issues">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AleX83Xpert&theme=tokyonight&count_private=true&show_icons=true&hide=stars,issues&count_private=true&show_icons=true" />
-  </a>
-  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AleX83Xpert&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleX83Xpert&theme=tokyonight" />
-  </a>
-  
-  <!--a href="https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&no-bg=true&title=Commit">
-    <img src="https://github-profile-trophy.vercel.app/?username=AleX83Xpert&theme=monokai&no-frame=true&no-bg=true&title=Commit" />
   </a-->
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AleX83Xpert&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleX83Xpert&theme=tokyonight" />
+  </a>
 </div>
 
 <!--
