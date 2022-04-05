@@ -4,7 +4,7 @@
 🧙‍♂️ I'm a full-stack web developer with 12+ years of experience  
   
 
-👨‍💻 I’m currently working on [Doma](https://github.com/open-condo-software/condo)  
+👨‍💻 I’m currently working on [Doma](https://github.com/open-condo-software/)  
   
 
 <br/>  
