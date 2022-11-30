@@ -1,7 +1,7 @@
 ### <div align="center">Hello 👋, my name is Alexander.</div>  
   
 
-🧙‍♂️ I'm a full-stack web developer with 12+ years of experience  
+🧙‍♂️ I'm a full-stack web developer with 13,5+ years of experience  
   
 
 👨‍💻 I’m currently working on [Doma](https://github.com/open-condo-software/)  
